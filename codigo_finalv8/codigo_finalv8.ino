@@ -8,7 +8,7 @@
 #pragma message(THIS EXAMPLE IS FOR ESP8266 ONLY!)
 #error Select ESP8266 board.
 #endif
-
+//esta linea es de prueba para git hub
 #define DEBUG_ON
 //t#define tmp 2 //ds18b20 temperatura dentro del compost
 #define mzc 0 //mezclador
